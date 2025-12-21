@@ -9,9 +9,7 @@ fundamental ingredients.
 📄 Article (PDF): see `/paper/`  
 👤 Author: Jérôme Beau (independent researcher)
 
----
-
-## Core Idea
+# Core Idea
 
 Cosmochrony is built on three key hypotheses:
 
@@ -31,9 +29,7 @@ In this view:
 - quantization is not fundamental,
 - cosmic expansion is not driven by dark energy.
 
----
-
-## The χ Field
+# The χ Field
 
 - χ is a **real scalar geometric field**
 - it is **not defined on spacetime** — spacetime emerges from it
@@ -57,9 +53,7 @@ This single relation underlies:
 - gravitational effects
 - cosmological expansion
 
----
-
-## Particles as Solitons
+# Particles as Solitons
 
 In Cosmochrony:
 
@@ -73,9 +67,7 @@ This provides a geometric interpretation of:
 - discrete particle species
 - the spin–statistics connection
 
----
-
-## Gravity as Emergent Time Dilation
+# Gravity as Emergent Time Dilation
 
 Gravitation is not a fundamental interaction.
 
@@ -95,9 +87,7 @@ Black holes correspond to regions where:
 
 leading to **temporal and gravitational shadows**.
 
----
-
-## Quantum Phenomena Without Collapse
+# Quantum Phenomena Without Collapse
 
 Quantum behavior is not postulated.
 
@@ -112,9 +102,7 @@ Key points:
 - Bell correlations arise **without superluminal signaling**
 - measurement is a **decoherence process**, not a fundamental collapse
 
----
-
-## Cosmology Without Dark Energy
+# Cosmology Without Dark Energy
 
 Cosmic expansion arises from the **global relaxation of χ**.
 
@@ -130,9 +118,7 @@ Primordial χ fluctuations naturally reproduce:
 - acoustic peak structure
 - correct cosmic age and scales
 
----
-
-## Status of the Framework
+# Status of the Framework
 
 Cosmochrony is:
 
@@ -151,9 +137,7 @@ It **does** aim to:
 - unify time, geometry, and quantization
 - offer testable deviations from ΛCDM and standard gravity
 
----
-
-## Repository Structure
+# Repository Structure
 
 /
 ├── site/ # cosmochrony.org website sources
@@ -161,9 +145,7 @@ It **does** aim to:
 ├── figures/ # diagrams and illustrations
 └── README.md
 
----
-
-## Testable Predictions
+# Testable Predictions
 
 Cosmochrony predicts potential deviations in:
 - redshift drift
@@ -174,9 +156,7 @@ Cosmochrony predicts potential deviations in:
 
 These provide clear avenues for empirical scrutiny.
 
----
-
-## License and Contribution
+# License and Contribution
 
 This project is currently intended as a **research and discussion framework**.
 
@@ -189,18 +169,14 @@ If you are interested in:
 
 feel free to open an issue or start a discussion.
 
----
-
-## Citation
+# Citation
 
 If you reference this work, please cite:
 
 > J. Beau, *Cosmochrony: An Exploratory Geometric Framework for Emergent  
-> Spacetime, Gravitation, and Quantum Phenomena*, v1.1, 2026.
+> Spacetime, Gravitation, and Quantum Phenomena*, v1.0, 2025.
 
----
-
-## Acknowledgements
+# Acknowledgements
 
 This work was developed by the author with conceptual guidance and
 technical assistance from several large language models (OpenAI, Anthropic,
