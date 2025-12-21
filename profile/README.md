@@ -13,7 +13,7 @@ In this approach:
 This repository contains the **source of the Cosmochrony paper** and the **cosmochrony.org**
 website.
 
-📄 Paper: https://github.com/Cosmochrony/paper  
+📄 Paper: https://github.com/Cosmochrony/paper ([PDF](https://github.com/Cosmochrony/paper/blob/main/pdf/Cosmochrony.pdf))
 🌐 Website: https://cosmochrony.org
 
 Status: **exploratory research framework**.
