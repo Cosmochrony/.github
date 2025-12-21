@@ -1,5 +1,3 @@
-# Cosmochrony
-
 **Cosmochrony** is an exploratory theoretical framework proposing a minimalist and geometric
 origin for **time, spacetime, gravitation, quantum phenomena, and cosmological expansion**.
 
