@@ -1,19 +1,20 @@
-**Cosmochrony** is an exploratory theoretical framework in which **time, spacetime, gravitation,
-quantum phenomena, and cosmological expansion** emerge from the irreversible relaxation of a
-single scalar geometric field, **χ**.
+**Cosmochrony** is a pre-geometric theoretical framework in which time ordering, spacetime geometry, dynamics, and matter emerge from the irreversible relaxation of a single relational substrate, χ.
 
-In this approach:
-- time corresponds to the monotonic evolution of χ,
-- space emerges from relational χ differences,
-- particles are stable topological excitations (solitons),
-- gravity arises from local slowing of χ relaxation,
-- quantum behavior and entanglement emerge without fundamental nonlocality,
-- cosmic expansion follows from the same dynamics, without dark energy.
+In this framework:
 
-This repository contains the **source of the Cosmochrony paper** and the **cosmochrony.org**
-website.
+– time corresponds to the intrinsic, directed relaxation (ordering) of χ,
+– spacetime geometry emerges as an effective, continuum encoding of microscopic relational connectivity,
+– physical observables arise through a generally non-injective projection from χ to an effective spacetime descriptor χ_eff,
+– particles correspond to stable, localized configurations characterized by spectral stability signatures,
+– gravitation emerges from sustained constraints on χ relaxation, recovered as an effective geometric limit,
+– quantum-like phenomena arise from projection structure, stability spectra, and non-factorizable regimes, without fundamental nonlocality,
+– cosmological expansion and strong-gravity regimes follow from the same underlying relaxation dynamics.
+
+The dynamical law and the effective Born–Infeld-like action are derived ab initio from structural constraints and causal saturation of relaxation fluxes.
+
+This repository contains the source of the Cosmochrony paper and the cosmochrony.org website.
 
 📄 Paper: https://github.com/Cosmochrony/paper ([PDF](https://github.com/Cosmochrony/paper/blob/main/pdf/Cosmochrony.pdf))
 🌐 Website: https://cosmochrony.org
 
-Status: **exploratory research framework**.
+Status: foundational pre-geometric framework with derived dynamics and effective-limit predictions.
