@@ -1,12 +1,12 @@
 **Cosmochrony** is a foundational pre-geometric framework in which time ordering,
 spacetime geometry, dynamics, and matter emerge from the irreversible relaxation
-of a single relational substrate, denoted χ.
+of a single relational substrate, denoted $chi$.
 
 The framework is built on a minimal ontological assumption: no fundamental spacetime,
 no metric, no fields, and no quantization postulates are introduced a priori.
 Instead, familiar physical structures arise as regime-dependent effective descriptions,
 obtained through a generally non-injective projection from χ to observable quantities
-(χ_eff).
+($chi_eff$).
 
 Core principles and results:
 
