@@ -6,7 +6,7 @@ The framework is built on a minimal ontological assumption: no fundamental space
 no metric, no fields, and no quantization postulates are introduced a priori.
 Instead, familiar physical structures arise as regime-dependent effective descriptions,
 obtained through a generally non-injective projection from χ to observable quantities
-($\chi_eff$).
+($\chi_\text{eff}$).
 
 Core principles and results:
 
