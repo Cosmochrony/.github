@@ -1,12 +1,12 @@
 **Cosmochrony** is a foundational pre-geometric framework in which time ordering,
 spacetime geometry, dynamics, and matter emerge from the irreversible relaxation
-of a single relational substrate, denoted $chi$.
+of a single relational substrate, denoted $\chi$.
 
 The framework is built on a minimal ontological assumption: no fundamental spacetime,
 no metric, no fields, and no quantization postulates are introduced a priori.
 Instead, familiar physical structures arise as regime-dependent effective descriptions,
 obtained through a generally non-injective projection from χ to observable quantities
-($chi_eff$).
+($\chi_eff$).
 
 Core principles and results:
 
@@ -15,17 +15,17 @@ Core principles and results:
   not to an external parameter or coordinate.
 
 - **Spacetime is an effective description**  
-  Geometry arises as a continuum encoding of relational correlations in χ,
+  Geometry arises as a continuum encoding of relational correlations in $\chi$,
   valid only in projectable regimes and recovered as an operational limit.
 
 - **Non-injective projection is fundamental**  
-  Multiple underlying χ-configurations may correspond to identical observables,
+  Multiple underlying $\chi$-configurations may correspond to identical observables,
   while a single configuration may admit several correlated effective realizations.
   This structural information loss under projection underlies quantum indeterminacy,
   contextuality, and Bell inequality violations without invoking fundamental nonlocality.
 
 - **Bounded relaxation and Born–Infeld emergence**  
-  Universal bounds on χ relaxation flux lead uniquely to a Born–Infeld-like effective
+  Universal bounds on $\chi$ relaxation flux lead uniquely to a Born–Infeld-like effective
   action, providing non-singular dynamics, causal saturation, and a unified treatment
   of strong-field and high-energy regimes.
 
@@ -35,7 +35,7 @@ Core principles and results:
   invariant of relaxation fluxes, without fundamental gauge fields.
 
 - **Gravitation as inhibited relaxation**  
-  Gravity arises from sustained constraints on χ relaxation ordering and is recovered
+  Gravity arises from sustained constraints on $\chi$ relaxation ordering and is recovered
   as an effective geometric limit, reproducing the Schwarzschild solution and
   standard weak-field phenomenology.
 
