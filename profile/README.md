@@ -56,7 +56,8 @@ structure in projected descriptions.
 
 This organization hosts:
 - the main Cosmochrony paper,
-- companion articles on spectral geometry, Bell inequalities, and Born–Infeld dynamics,
+- companion articles on [spectral geometry](https://github.com/Cosmochrony/spectral-paper), [Bell inequalities](https://github.com/Cosmochrony/bell-paper), and 
+  [Born–Infeld dynamics](https://github.com/Cosmochrony/born-infeld-paper),
 - numerical simulations and validation codes,
 - the public website and documentation.
 
