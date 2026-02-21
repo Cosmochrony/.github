@@ -1,69 +1,98 @@
-**Cosmochrony** is a foundational pre-geometric framework in which time ordering,
-spacetime geometry, dynamics, and matter emerge from the irreversible relaxation
-of a single relational substrate, denoted $\chi$.
+# Cosmochrony
 
-The framework is built on a minimal ontological assumption: no fundamental spacetime,
-no metric, no fields, and no quantization postulates are introduced a priori.
-Instead, familiar physical structures arise as regime-dependent effective descriptions,
-obtained through a generally non-injective projection from χ to observable quantities
-($\chi_\text{eff}$).
+**Cosmochrony** is a pre-geometric relational framework in which time ordering,
+spacetime geometry, gravitation, gauge structure, and matter emerge from the
+irreversible relaxation of a single relational substrate, denoted $\chi$.
 
-Core principles and results:
+No fundamental spacetime, metric tensor, gauge field, or quantization postulate
+is introduced at the ontological level.
+All familiar physical structures arise as regime-dependent effective descriptions,
+obtained through a generally non-injective projection
+\[
+\Pi : \chi \longrightarrow \chi_{\mathrm{eff}} .
+\]
 
-- **Time is emergent**  
-  Physical time corresponds to the intrinsic, directed ordering of χ relaxation,
-  not to an external parameter or coordinate.
+## Foundational structure
 
-- **Spacetime is an effective description**  
-  Geometry arises as a continuum encoding of relational correlations in $\chi$,
-  valid only in projectable regimes and recovered as an operational limit.
+### Emergent time
+Physical time corresponds to the intrinsic, directed ordering of $\chi$ relaxation.
+It is not a background parameter but a derived operational ordering.
 
-- **Non-injective projection is fundamental**  
-  Multiple underlying $\chi$-configurations may correspond to identical observables,
-  while a single configuration may admit several correlated effective realizations.
-  This structural information loss under projection underlies quantum indeterminacy,
-  contextuality, and Bell inequality violations without invoking fundamental nonlocality.
+### Non-injective projection
+Observable states correspond to equivalence classes of underlying $\chi$ configurations.
+This structural non-injectivity accounts for:
+- quantum indeterminacy,
+- contextuality,
+- Bell inequality violations,
+  without invoking fundamental stochasticity or nonlocal signals.
 
-- **Bounded relaxation and Born–Infeld emergence**  
-  Universal bounds on $\chi$ relaxation flux lead uniquely to a Born–Infeld-like effective
-  action, providing non-singular dynamics, causal saturation, and a unified treatment
-  of strong-field and high-energy regimes.
+### Bounded relaxation and effective dynamics
+A universal bound on relaxation flux ($|\partial_t \chi| \le c_\chi$)
+leads uniquely to a Born–Infeld-type effective action.
+This provides:
+- non-singular strong-field behavior,
+- causal saturation,
+- a unified treatment of high-energy and low-density regimes.
 
-- **Matter and charge as structural invariants**  
-  Particles correspond to stable, localized configurations characterized by spectral
-  stability and topological constraints. Electric charge emerges as a chiral–torsional
-  invariant of relaxation fluxes, without fundamental gauge fields.
+---
 
-- **Gravitation as inhibited relaxation**  
-  Gravity arises from sustained constraints on $\chi$ relaxation ordering and is recovered
-  as an effective geometric limit, reproducing the Schwarzschild solution and
-  standard weak-field phenomenology.
+## Emergent sectors
 
-- **Quantum phenomena without fundamental randomness**  
-  Quantum correlations, entanglement, and Bell violations arise from the structure
-  of projection and non-factorizable regimes, while classical behavior is recovered
-  when the effective mapping becomes approximately injective.
+### Gravitation
+Gravity arises from sustained inhibition of relaxation ordering.
+In the projectable regime, this is encoded geometrically and reproduces:
+- Schwarzschild solution,
+- weak-field phenomenology,
+- gravitational redshift and Shapiro delay.
 
-- **Cosmology from the same dynamics**  
-  Cosmological expansion, horizon structure, and strong-gravity regimes follow from
-  bounded relaxation and projective compensation, without fundamental dark energy.
-  The framework provides a structural explanation of the Hubble tension and flat
-  galactic rotation curves without invoking dark matter particles.
+### Gauge structure and charge
+Gauge symmetry is identified with the connection associated to the projection fiber.
+Electric charge appears as a structural invariant of relaxation flux orientation,
+rather than as a fundamental gauge field postulate.
 
-The effective dynamical laws, thermodynamic quantities, and geometric structures
-are not fundamental postulates but compensatory encodings of unresolved relational
-structure in projected descriptions.
+### Mass and inertia
+Mass corresponds to localized spectral stability under relaxation.
+Inertia arises from resistance to reconfiguration of stable χ-structures.
+
+### Quantum electrodynamics (precision regime)
+The Lamb shift and the Schwinger effect are interpreted as consequences of:
+- finite spectral resolution,
+- bounded flux saturation,
+  without introducing a physically populated vacuum.
+
+### Cosmology
+Cosmic expansion and low-density dynamics follow from bounded relaxation.
+The framework provides:
+- a unified effective mechanism for flat galactic rotation curves,
+- a structural explanation of the Hubble tension,
+  without invoking dark matter particles or fundamental dark energy.
+
+### Superconductivity
+Superconducting coherence is interpreted as projective phase locking
+under constrained relaxation, providing a unified description of
+conventional and strongly correlated regimes.
+
+## Research components
 
 This organization hosts:
-- the main Cosmochrony paper,
-- companion articles on [spectral geometry](https://github.com/Cosmochrony/spectral-paper), [Bell inequalities](https://github.com/Cosmochrony/bell-paper), and 
-  [Born–Infeld dynamics](https://github.com/Cosmochrony/born-infeld-paper),
-- numerical simulations and validation codes,
-- the public website and documentation.
 
-📄 Main paper: https://github.com/Cosmochrony/paper  
-📄 PDF: https://github.com/Cosmochrony/paper/blob/main/pdf/Cosmochrony.pdf  
-🌐 Website: https://cosmochrony.org
+- The main Cosmochrony paper (foundational framework)
+- Companion articles:
+    - Spectral geometry and projection structure
+    - Bell inequalities and non-injective projection
+    - Born–Infeld emergence from bounded relaxation
+    - Charge, mass, and inertia
+    - Lamb shift and Schwinger effect
+    - Galaxy rotation curves and cosmological tension
+    - Superconductivity
+- Numerical simulations and validation codes
+- The public website and documentation
 
-Status: active foundational framework with derived dynamics and quantitative,
+## Status
+
+Cosmochrony is an active foundational research program
+with derived effective dynamics and quantitative,
 regime-dependent, falsifiable predictions.
+
+Preprints are publicly available via Zenodo.
+Journal submissions are ongoing.
