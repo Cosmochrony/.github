@@ -74,13 +74,13 @@ This organization hosts:
 
 - The [main Cosmochrony paper](https://github.com/Cosmochrony/paper) (foundational framework) ([PDF](https://github.com/Cosmochrony/paper/blob/main/pdf/Cosmochrony.pdf))
 - Companion articles:
-  A. [Spectral geometry and projection structure](https://github.com/Cosmochrony/spectral-paper) ([PDF](https://github.com/Cosmochrony/spectral-paper/blob/main/pdf/Spectral.pdf))
-  A. [Bell inequalities and non-injective projection](https://github.com/Cosmochrony/bell-paper) ([PDF](https://github.com/Cosmochrony/bell-paper/blob/main/pdf/Bell.pdf))
-  A. [Born–Infeld emergence from bounded relaxation](https://github.com/Cosmochrony/born-infeld-paper) ([PDF](https://github.com/Cosmochrony/born-infeld-paper/blob/main/pdf/BordInfeld.pdf))
-  A. [Charge, mass, and inertia](https://github.com/Cosmochrony/sm-charge-mass-paper) ([PDF](https://github.com/Cosmochrony/sm-charge-mass-paper/blob/main/pdf/SM-charge-mass.pdf))
-  A. [Lamb shift and Schwinger effect](https://github.com/Cosmochrony/schwinger-lamb-paper) ([PDF](https://github.com/Cosmochrony/schwinger-lamb-paper/blob/main/pdf/Schwinger-Lamb.pdf))
-  A. [Galaxy rotation curves and cosmological tension](https://github.com/Cosmochrony/cosmology-paper) ([PDF](https://github.com/Cosmochrony/cosmology-paper/blob/main/pdf/Cosmology.pdf))
-  A. [Superconductivity](https://github.com/Cosmochrony/superconductivity-paper) ([PDF](https://github.com/Cosmochrony/superconductivity-paper/blob/main/pdf/Superconductivity.pdf))
+  A.  [Spectral geometry and projection structure](https://github.com/Cosmochrony/spectral-paper) ([PDF](https://github.com/Cosmochrony/spectral-paper/blob/main/pdf/Spectral.pdf))
+  A.  [Bell inequalities and non-injective projection](https://github.com/Cosmochrony/bell-paper) ([PDF](https://github.com/Cosmochrony/bell-paper/blob/main/pdf/Bell.pdf))
+  A.  [Born–Infeld emergence from bounded relaxation](https://github.com/Cosmochrony/born-infeld-paper) ([PDF](https://github.com/Cosmochrony/born-infeld-paper/blob/main/pdf/BordInfeld.pdf))
+  A.  [Charge, mass, and inertia](https://github.com/Cosmochrony/sm-charge-mass-paper) ([PDF](https://github.com/Cosmochrony/sm-charge-mass-paper/blob/main/pdf/SM-charge-mass.pdf))
+  A.  [Lamb shift and Schwinger effect](https://github.com/Cosmochrony/schwinger-lamb-paper) ([PDF](https://github.com/Cosmochrony/schwinger-lamb-paper/blob/main/pdf/Schwinger-Lamb.pdf))
+  A.  [Galaxy rotation curves and cosmological tension](https://github.com/Cosmochrony/cosmology-paper) ([PDF](https://github.com/Cosmochrony/cosmology-paper/blob/main/pdf/Cosmology.pdf))
+  A.  [Superconductivity](https://github.com/Cosmochrony/superconductivity-paper) ([PDF](https://github.com/Cosmochrony/superconductivity-paper/blob/main/pdf/Superconductivity.pdf))
 - [Numerical simulations and validation codes](https://github.com/Cosmochrony/simulation)
 - [The public website and documentation](https://github.com/Cosmochrony/cosmochrony.github.io)
 
