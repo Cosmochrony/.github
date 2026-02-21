@@ -6,9 +6,7 @@ No fundamental spacetime, metric tensor, gauge field, or quantization postulate
 is introduced at the ontological level.
 All familiar physical structures arise as regime-dependent effective descriptions,
 obtained through a generally non-injective projection
-\[
-\Pi : \chi \longrightarrow \chi_{\mathrm{eff}} .
-\]
+$\Pi : \chi \longrightarrow \chi_{\mathrm{eff}}$.
 
 ## Foundational structure
 
