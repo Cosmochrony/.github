@@ -1,5 +1,3 @@
-# Cosmochrony
-
 **Cosmochrony** is a pre-geometric relational framework in which time ordering,
 spacetime geometry, gravitation, gauge structure, and matter emerge from the
 irreversible relaxation of a single relational substrate, denoted $\chi$.
