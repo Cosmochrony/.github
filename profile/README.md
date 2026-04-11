@@ -1,5 +1,3 @@
-# Cosmochrony
-
 **Cosmochrony** is a non-injective projection theory in which quantum mechanics,
 spacetime geometry, and gauge-matter structure emerge from a single static relational
 substrate, denoted $\chi$, through a fixed generally non-injective projection
